@@ -8,10 +8,10 @@ A low-level vision zoo for dehazing, deblurring, denoising, deraining, inpaintin
 ### Deblurring
 - [Deblurring Zoo](https://github.com/subeeshvasu/Awesome-Deblurring) authored by [Subeesh Vasu](https://github.com/subeeshvasu).
 
-### De-noising
+### Denoising
 - [Denoising Zoo](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#deep-learning) authored by [Zhang, Bin](https://github.com/z-bingo).
 
-### De-raining
+### Deraining
 - [Deraining Zoo](https://github.com/nnUyi/DerainZoo) authored by [Yang, Youzhao](https://github.com/nnUyi).
 
 ### Inpainting
