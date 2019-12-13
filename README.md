@@ -6,7 +6,7 @@ A low-level vision zoo for dehazing, deblurring, denoising, deraining, inpaintin
 - [Dehazing Zoo]() authored by [Author]().
 
 ### Deblurring
-- [Deblurring Zoo]() authored by [Author]().
+- [Deblurring Zoo](https://github.com/subeeshvasu/Awesome-Deblurring) authored by [Subeesh Vasu](https://github.com/subeeshvasu).
 
 ### De-noising
 - [Denoising Zoo](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#deep-learning) authored by [Zhang, Bin](https://github.com/z-bingo).
@@ -15,7 +15,7 @@ A low-level vision zoo for dehazing, deblurring, denoising, deraining, inpaintin
 - [Deraining Zoo](https://github.com/nnUyi/DerainZoo) authored by [Yang, Youzhao](https://github.com/nnUyi).
 
 ### Inpainting
-- [Inpainting Zoo]() authored by [Author]().
+- [Inpainting Zoo](https://github.com/1900zyh/Awesome-Image-Inpainting) authored by [zyh](https://github.com/1900zyh/Awesome-Image-Inpainting).
 
 ### Color Enhancement
 - [Color Enhancement Zoo]() authored by [Author]().
@@ -36,11 +36,11 @@ A low-level vision zoo for dehazing, deblurring, denoising, deraining, inpaintin
 **Image & Video Quality Assessment Algorithms [[software release]](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm)[[Texas Lab]](http://live.ece.utexas.edu/research/quality/)**
 
 # Acknowledgements
-- Thanks [author] for the maintainance of [De-hazing Project]().
-- Thanks [author] for the maintainance of [De-blurring Project]().
-- Thanks [Zhang, Bin](https://github.com/z-bingo) for the maintainance of [De-noising Project](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#deep-learning).
-- Thanks [Yang, Youzhao](https://github.com/nnUyi) for the maintainance of [De-raining Project](https://github.com/nnUyi/DerainZoo).
-- Thanks [author] for the maintainance of [Inpainting Project]().
+- Thanks [author] for the maintainance of [Dehazing Project]().
+- Thanks [Subeesh Vasu](https://github.com/subeeshvasu) for the maintainance of [Deblurring Project](https://github.com/subeeshvasu/Awesome-Deblurring).
+- Thanks [Zhang, Bin](https://github.com/z-bingo) for the maintainance of [Denoising Project](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#deep-learning).
+- Thanks [Yang, Youzhao](https://github.com/nnUyi) for the maintainance of [Deraining Project](https://github.com/nnUyi/DerainZoo).
+- Thanks [zyh](https://github.com/1900zyh/Awesome-Image-Inpainting) for the maintainance of [Inpainting Project](https://github.com/1900zyh/Awesome-Image-Inpainting).
 - Thanks [author] for the maintainance of [Color Enhancement Project]().
 - Thanks [Tian, Yapeng](https://github.com/YapengTian) for the maintainance of [Super Resolution Project](http://yapengtian.org/Single-Image-Super-Resolution/).
 
