@@ -1,5 +1,5 @@
 # Low-Level-Vision-Zoo
-A low-level vision zoo for de-hazing, de-blurring, de-noising, de-raining, inpainting, color enhancement, super resolution et al.
+A low-level vision zoo for dehazing, deblurring, denoising, deraining, inpainting, color enhancement, brightening, super resolution et al.
 
 ## Low-Level-Vision
 ### Dehazing
