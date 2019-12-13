@@ -2,26 +2,29 @@
 A low-level vision zoo for de-hazing, de-blurring, de-noising, de-raining, inpainting, color enhancement, super resolution et al.
 
 ## Low-Level-Vision
-### De-hazing
-- [[De-hazing Zoo]]() authored by [Author]().
+### Dehazing
+- [Dehazing Zoo]() authored by [Author]().
 
-### De-blurring
-- [[De-blurring Zoo]]() authored by [Author]().
+### Deblurring
+- [Deblurring Zoo]() authored by [Author]().
 
 ### De-noising
-- [[De-noising Zoo]](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#deep-learning) authored by [Zhang, Bin](https://github.com/z-bingo).
+- [Denoising Zoo](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#deep-learning) authored by [Zhang, Bin](https://github.com/z-bingo).
 
 ### De-raining
-- [[De-raining Zoo]](https://github.com/nnUyi/DerainZoo) authored by [Yang, Youzhao](https://github.com/nnUyi).
+- [Deraining Zoo](https://github.com/nnUyi/DerainZoo) authored by [Yang, Youzhao](https://github.com/nnUyi).
 
 ### Inpainting
-- [[Inpainting Zoo]]() authored by [Author]().
+- [Inpainting Zoo]() authored by [Author]().
 
 ### Color Enhancement
-- [[Color Enhancement Zoo]]() authored by [Author]().
+- [Color Enhancement Zoo]() authored by [Author]().
+
+### Brightening
+- [Brightening Zoo]() authored by [Author]().
 
 ### Super Resolution
-- [[Super Resolution Zoo]](http://yapengtian.org/Single-Image-Super-Resolution/) authored by [Tian, Yapeng](https://github.com/YapengTian).
+- [Super Resolution Zoo](http://yapengtian.org/Single-Image-Super-Resolution/) authored by [Tian, Yapeng](https://github.com/YapengTian).
 
 ## Image Quality Metrics
 * PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
