@@ -3,10 +3,10 @@ A low-level vision zoo for de-hazing, de-blurring, de-noising, de-raining, inpai
 
 ## Low-Level-Vision
 ### De-hazing
-- [[De-hazing Zoo]]() authored by []().
+- [[De-hazing Zoo]]() authored by [Author]().
 
 ### De-blurring
-- [[De-blurring Zoo]]() authored by []().
+- [[De-blurring Zoo]]() authored by [Author]().
 
 ### De-noising
 - [[De-noising Zoo]](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#deep-learning) authored by [Zhang, Bin](https://github.com/z-bingo).
@@ -15,10 +15,10 @@ A low-level vision zoo for de-hazing, de-blurring, de-noising, de-raining, inpai
 - [[De-raining Zoo]](https://github.com/nnUyi/DerainZoo) authored by [Yang, Youzhao](https://github.com/nnUyi).
 
 ### Inpainting
-- [[Inpainting Zoo]]() authored by []().
+- [[Inpainting Zoo]]() authored by [Author]().
 
 ### Color Enhancement
-- [[Color Enhancement Zoo]]() authored by []().
+- [[Color Enhancement Zoo]]() authored by [Author]().
 
 ### Super Resolution
 - [[Super Resolution Zoo]](http://yapengtian.org/Single-Image-Super-Resolution/) authored by [Tian, Yapeng](https://github.com/YapengTian).
