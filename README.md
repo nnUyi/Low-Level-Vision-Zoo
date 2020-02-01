@@ -3,7 +3,7 @@ A low-level vision zoo for dehazing, deblurring, denoising, deraining, inpaintin
 
 ## Low-Level-Vision
 ### Dehazing
-- [Dehazing Zoo]() authored by [Author]().
+- [Dehazing Zoo](https://github.com/youngguncho/awesome-dehazing#dehazing-using-multi-images) authored by [youngguncho](https://github.com/youngguncho).
 
 ### Deblurring
 - [Deblurring Zoo](https://github.com/subeeshvasu/Awesome-Deblurring) authored by [Subeesh Vasu](https://github.com/subeeshvasu).
@@ -36,7 +36,7 @@ A low-level vision zoo for dehazing, deblurring, denoising, deraining, inpaintin
 **Image & Video Quality Assessment Algorithms [[software release]](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm)[[Texas Lab]](http://live.ece.utexas.edu/research/quality/)**
 
 # Acknowledgements
-- Thanks [author] for the maintainance of [Dehazing Project]().
+- Thanks [Youngguncho](https://github.com/youngguncho) for the maintainance of [Dehazing Project](https://github.com/youngguncho/awesome-dehazing#dehazing-using-multi-images).
 - Thanks [Subeesh Vasu](https://github.com/subeeshvasu) for the maintainance of [Deblurring Project](https://github.com/subeeshvasu/Awesome-Deblurring).
 - Thanks [Zhang, Bin](https://github.com/z-bingo) for the maintainance of [Denoising Project](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#deep-learning).
 - Thanks [Yang, Youzhao](https://github.com/nnUyi) for the maintainance of [Deraining Project](https://github.com/nnUyi/DerainZoo).
