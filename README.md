@@ -3,7 +3,7 @@ A low-level vision zoo for dehazing, deblurring, denoising, deraining, inpaintin
 
 ## Low-Level-Vision
 ### Dehazing
-- [Dehazing Zoo](https://github.com/youngguncho/awesome-dehazing#dehazing-using-multi-images) authored by [youngguncho](https://github.com/youngguncho).
+- [Dehazing Zoo](https://github.com/youngguncho/awesome-dehazing#dehazing-using-multi-images) authored by [Youngguncho](https://github.com/youngguncho).
 
 ### Deblurring
 - [Deblurring Zoo](https://github.com/subeeshvasu/Awesome-Deblurring) authored by [Subeesh Vasu](https://github.com/subeeshvasu).
